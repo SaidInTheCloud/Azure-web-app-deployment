@@ -24,4 +24,4 @@ To follow along with this guide, you’ll need:
 
 4. **Access Your App: Open your browser and view your app using the URL provided by Azure App Service.**
 
-For detailed, step-by-step instructions with images, visit my Medium post [Update Link].
+For detailed, step-by-step instructions with images, visit my Medium post [[here](https://medium.com/@SaidInTheCloud/deploying-a-web-application-to-azure-app-service-23e4390cddbf)].
